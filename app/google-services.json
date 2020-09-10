@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "185962450715",
+    "firebase_url": "https://myclassgym.firebaseio.com",
+    "project_id": "myclassgym",
+    "storage_bucket": "myclassgym.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185962450715:android:8ce0b86e44a3223d8acdbe",
+        "android_client_info": {
+          "package_name": "com.classy.class_2020c_and_4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185962450715-vf6mb5lgceg3fjpv2ivaogk2veaelsv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8alVOfBb3fd8Zb-mx32s2q-UCOJtUzEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185962450715-vf6mb5lgceg3fjpv2ivaogk2veaelsv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
